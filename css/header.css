@@ -35,6 +35,7 @@ color: #2e2f42;
 .contacts-item {
 }
 .contacts-link {
+    line-height: 1.5
 }
     .contacts-link:hover,
     .contacts-link:focus {
